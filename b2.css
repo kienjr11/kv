@@ -1,0 +1,21 @@
+h1{
+    text-shadow:1px 1px 2px rgb(84, 124, 147);
+    color:rgba(38, 121, 193, 0.678)
+}
+h3{
+    color:rgb(0, 179, 255)
+}
+#bl{
+    text-align:right;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+#aheart{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#lorem{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#span{
+    font-weight:600;
+}
